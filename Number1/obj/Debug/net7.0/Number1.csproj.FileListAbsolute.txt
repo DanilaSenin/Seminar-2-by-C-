@@ -1,0 +1,14 @@
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\bin\Debug\net7.0\Number1.exe
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\bin\Debug\net7.0\Number1.deps.json
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\bin\Debug\net7.0\Number1.runtimeconfig.json
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\bin\Debug\net7.0\Number1.dll
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\bin\Debug\net7.0\Number1.pdb
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\Number1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\Number1.AssemblyInfoInputs.cache
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\Number1.AssemblyInfo.cs
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\Number1.csproj.CoreCompileInputs.cache
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\Number1.dll
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\refint\Number1.dll
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\Number1.pdb
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\Number1.genruntimeconfig.cache
+C:\Users\Данила Сенин\Desktop\C# Domachka\Number1\obj\Debug\net7.0\ref\Number1.dll
